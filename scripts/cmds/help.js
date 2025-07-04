@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "【 https://facebook.com/the.king.of.ghost.black01】";
+const doNotDelete = "【 https://www.facebook.com/the.king.of.ghost.black00】";
 /** 
 * @author NTKhang
 * @author: do not delete it
@@ -14,7 +14,7 @@ module.exports = {
 	config: {
 		name: "help",
 		version: "1.18",
-		author: "NTKhang",// edited by Elohime hatake
+		author: "NTKhang",// edited by DrexGohime
 		countDown: 5,
 		role: 0,
 		shortDescription: {
