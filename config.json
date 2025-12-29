@@ -35,12 +35,12 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61571772429316"
+    "61578919713290"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61571772429316"
+      "61578919713290"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
@@ -51,8 +51,8 @@
   "api2": "",
   "api3": "",
   "authorName": "ᎠᏒᎬᎲ",
-  "facebook2": "https://www.facebook.com/the.king.of.ghost.black00",
-  "facebook": "https://www.facebook.com/the.king.of.ghost.black00",
+  "facebook2": "https://www.facebook.com/drex.gohime",
+  "facebook": "https://www.facebook.com/drex.gohime",
   "email": "drexlee18052005@gmail.com",
   "replit": "https://replit.com/@gohime",
   "github": "https://github.com/Elohime7",
